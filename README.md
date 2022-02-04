@@ -1,4 +1,4 @@
-### Olá! Sou Yasmin Santana 💻
+### Olá! Sou Yasmin Santana👋
 
 <div align="center">
   <a href="https://github.com/santyasm">
