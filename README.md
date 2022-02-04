@@ -1,9 +1,5 @@
 ## Olá! Sou Yasmin Santana👋
-<img alt="santyasm" src="https://media.giphy.com/media/30pyfwqGRwuo0t2X94/giphy.gif" width="100px" heigth="100px">
-
-<div align="center">
-  <a href="https://github.com/santyasm">
-</div>
+<img align="right" alt="Yas-pic" height="150" src="https://media.giphy.com/media/30pyfwqGRwuo0t2X94/giphy.gif">
 
 <div style="display: inline_block"><br>
   <img align="center" alt="yas-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
