@@ -1,4 +1,5 @@
 ## Olá! Sou Yasmin Santana👋
+Sou estudante de programação atualmente focada em frontEnd ⌨️
 <img align="right" alt="Yas-pic" height="150" src="https://media.giphy.com/media/30pyfwqGRwuo0t2X94/giphy.gif">
 
 <div style="display: inline_block"><br>
