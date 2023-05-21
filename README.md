@@ -1,4 +1,3 @@
-<img align="right" alt="Yas-pic" height="150" src="https://media.giphy.com/media/30pyfwqGRwuo0t2X94/giphy.gif">
 
 <div style="display: inline_block"><br>
   <img align="center" alt="yas-JS" height="30" width="40" src="https://github.com/mongodb.png">
@@ -9,8 +8,6 @@
   <img align="center" alt="yas-AI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="yas-AI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="yas-AI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" />
-          
-          
           
           
 </div>
