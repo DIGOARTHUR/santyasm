@@ -13,3 +13,6 @@
           
           
 </div>
+
+
+![Snake animation](https://github.com/samuelsaturn/samuelsaturn/blob/output/github-contribution-grid-snake.svg)
