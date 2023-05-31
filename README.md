@@ -15,4 +15,4 @@
 </div>
 
 
-![Snake animation](https://github.com/samuelsaturn/samuelsaturn/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/santyasm/santyasm/blob/output/github-contribution-grid-snake.svg)
