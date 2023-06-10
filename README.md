@@ -1,6 +1,6 @@
   <h1 align="center">
     Oi Tudo bem? Eu sou  
-    <a href="https://www.linkedin.com/in/yasmin-santana-santos/">Yasmin Santana 😁</a>
+    <a href="https://www.linkedin.com/in/yasmin-santana-santos/">Yasmin Santana 😊</a>
   </h1>
   
    <p align="center">
