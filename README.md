@@ -4,7 +4,7 @@
   </h1>
   
    <p align="center">
-    Sou estudante de Sistemas de Informação apaixonada por programação. Aprendendo e construindo projetos em JavaScript com Node.js e Java. Sempre em busca de novos desafios e   oportunidades para expandir minhas habilidades. Vamos criar coisas incríveis juntos!
+    Sou estudante de Sistemas de Informação apaixonada por programação. Aprendendo e construindo projetos em JavaScript com Node.js, React e Java. Sempre em busca de novos desafios e   oportunidades para expandir minhas habilidades. Vamos criar coisas incríveis juntos!
   </p>
 
 <div align="center">
